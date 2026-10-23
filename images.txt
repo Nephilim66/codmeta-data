@@ -3,16 +3,16 @@ m4 | intitle:PEO M4 Carbine
 iso-nightshade | MP7 submachine gun
 kastov-762 | AKM rifle
 kg-7-vulcan | SVD Dragunov rifle
-han-86 | Daewoo K2 rifle white background
+han-86 | Daewoo K2C1
 ppsh-41 | PPSh-41
 hyeon-burst | intitle:PEO M16A4
 x-58-nyx | KRISS Vector
-patriot-xmr | intitle:PEO M27 IAR
+patriot-xmr | HK416 rifle
 oris-8-6 | M110 sniper rifle
-rezi-12 | intitle:PEO M1014
+rezi-12 | Benelli M4 shotgun
 signal-50 | Barrett M82
 finn-lmg | M249 SAW
 type-73 | intitle:PEO M240B
 mar-9 | intitle:PEO M14 EBR
-krait-p68 | intitle:PEO M17 pistol
+krait-p68 | Glock 17 pistol
 50-gs | Desert Eagle pistol
