@@ -1,55 +1,112 @@
 {
-  "updated": "2026-10-23T12:30:00+02:00",
-  "season": "MW4 — Lancement (Saison 1 le 6 nov.)",
+  "schema": 2,
+  "updated": "2026-10-23T12:55:00+02:00",
+  "season": "MW4 — Lancement",
   "s1_date": "2026-11-06T19:00:00+01:00",
+  "headline": "Metas v2 : niveaux de déblocage des accessoires ajoutés",
   "news": [
-    "MW4 sorti le 23 oct. ; DMZ dispo depuis l'accès anticipé du 20 oct.",
-    "Saison 1 le 6 nov. : Warzone passe sur MW4 (cartes Zodiac + Hajin), Battle Pass et BlackCell.",
-    "Warzone ne sera plus jouable sur PS4/Xbox One à partir de la Saison 1."
+    "MW4 est sorti le 23 oct. — Multi, DMZ et Campagne disponibles.",
+    "Saison 1 le 6 nov. : Warzone passe sur MW4 (Zodiac + Hajin), Battle Pass et BlackCell.",
+    "Warzone ne sera plus jouable sur PS4/Xbox One dès la Saison 1.",
+    "Le Kastov 762 grimpe en tête des fusils d'assaut à courte/moyenne portée."
   ],
   "mp": {
-    "note": "Tier list basée sur la bêta (août) — affinée au fil des patchs.",
+    "note": "Synthèse de plusieurs sources (bêta + lancement). Niveaux = niveau d'arme requis.",
     "tiers": [
       {"tier": "S", "weapons": [
-        {"name": "ISO Nightshade", "cls": "SMG", "trend": "=", "build": ["Courte portée / rush"]},
-        {"name": "M4", "cls": "Fusil d'assaut", "trend": "=", "build": ["FSS IS300", "Canon 18\" LE Crosswind", "KV Corsac Holo", "Chargeur tambour 60", "Laser SZ Gen.6 PEQ"]},
-        {"name": "KG-7 Vulcan", "cls": "Sniper", "trend": "=", "build": ["TT Solgae F7", "Canon Haebang RMT762 29\"", "7.62x54mmR Haute vélocité", "KT76 Light Bolt", "Haebang YNC-45"]}
+        {"name": "M4", "cls": "Fusil d'assaut", "range": "Polyvalent", "unlock": "Rang 9", "trend": "=", "tip": "Très peu de recul, gros dégâts, mobilité correcte : l'arme la plus sûre du jeu.",
+         "build": [{"slot": "Bouche", "name": "TZL-110 V1", "lvl": 39}, {"slot": "Laser", "name": "SA LAZ-500", "lvl": 24}, {"slot": "Chargeur", "name": "45 Round Mag", "lvl": 9}, {"slot": "Poignée arr.", "name": "ZLR Phase Grip", "lvl": 52}, {"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 37}]},
+        {"name": "ISO Nightshade", "cls": "SMG", "range": "Courte portée", "trend": "=", "tip": "Le roi du rush : vitesse de visée et de déplacement au top.",
+         "build": [{"slot": "Bouche", "name": "FSS Crackdown", "lvl": 4}, {"slot": "Canon", "name": "ZLR Carbon-900", "lvl": 35}, {"slot": "Laser", "name": "Schlager Visiv-5", "lvl": 39}, {"slot": "Crosse", "name": "No Stock", "lvl": 26}, {"slot": "Poignée arr.", "name": "Demo STP-1", "lvl": 6}]},
+        {"name": "Kastov 762", "cls": "Fusil d'assaut", "range": "Courte / moyenne", "trend": "new", "tip": "Avec l'Apex Kastov 545, devient un hybride AR/SMG redoutable.",
+         "build": [{"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 3}, {"slot": "Poignée arr.", "name": "FJX Kastov Grip", "lvl": 17}, {"slot": "Crosse", "name": "Spetsnaz S10", "lvl": 19}, {"slot": "Canon", "name": "Hanbit 74U 205.74mm", "lvl": 24}, {"slot": "Laser", "name": "Schlager Visiv-5", "lvl": 30}, {"slot": "Apex", "name": "Kastov 545", "lvl": 31}]},
+        {"name": "KG-7 Vulcan", "cls": "Sniper", "range": "Longue portée", "trend": "=", "tip": "Le sniper le plus rapide en visée, one-shot haut du corps.",
+         "build": [{"slot": "Canon", "name": "TT Baem 12\"", "lvl": 5}, {"slot": "Optique", "name": "Corio D51 Scope", "lvl": 23}, {"slot": "Busc", "name": "Haebang YNC-45", "lvl": 32}, {"slot": "Laser", "name": "XRK Clutch-LS", "lvl": 57}, {"slot": "Culasse", "name": "KT76 Light Bolt", "lvl": 61}]}
       ]},
       {"tier": "A", "weapons": [
-        {"name": "Han 86", "cls": "Fusil d'assaut", "trend": "=", "build": ["FSS IS300", "Canon Hanbit Lightning-7 465mm", "KV Corsac Holo", "Chargeur tambour 60", "Laser Schlager VISIV-5"]},
-        {"name": "Hyeon Burst", "cls": "Fusil d'assaut", "trend": "=", "build": []},
-        {"name": "PPSh-41", "cls": "SMG", "trend": "=", "build": []}
+        {"name": "Han 86", "cls": "Fusil d'assaut", "range": "Longue portée", "trend": "=",
+         "build": [{"slot": "Bouche", "name": "FSS IS300", "lvl": 6}, {"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 16}, {"slot": "Poignée arr.", "name": "Hanbit H86 Grip", "lvl": 33}, {"slot": "Crosse", "name": "Meiko L9P-Fold", "lvl": 44}, {"slot": "Laser", "name": "Schlager Visiv-5", "lvl": 45}]},
+        {"name": "PPSh-41", "cls": "SMG", "range": "Courte portée", "trend": "=",
+         "build": [{"slot": "Chargeur", "name": "53 Round Mag", "lvl": 3}, {"slot": "Bouche", "name": "L980-S Comp", "lvl": 6}, {"slot": "Crosse", "name": "Hanbit RDW7-F", "lvl": 8}, {"slot": "Canon", "name": "Hanbit RDR-Tiger 50", "lvl": 29}, {"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 53}]},
+        {"name": "Hyeon Burst", "cls": "Fusil d'assaut", "range": "Moyenne portée", "trend": "=",
+         "build": [{"slot": "Canon", "name": "Mugi Hwando-Z3 520.7mm", "lvl": 3}, {"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 7}, {"slot": "Bouche", "name": "ZLR Reverb90", "lvl": 19}, {"slot": "Optique", "name": "SZ Prima-4 Dot", "lvl": 29}, {"slot": "Laser", "name": "SA LAZ-500", "lvl": 49}]},
+        {"name": "X-58 Nyx", "cls": "SMG", "range": "Courte portée", "trend": "=",
+         "build": [{"slot": "Laser", "name": "QFL-S4.5", "lvl": 4}, {"slot": "Canon", "name": "Mugi HYU-90 228.6mm", "lvl": 5}, {"slot": "Sous-canon", "name": "Mire-50 Tac Grip", "lvl": 7}, {"slot": "Crosse", "name": "No Stock", "lvl": 16}, {"slot": "Poignée arr.", "name": "Bok-980", "lvl": 19}]},
+        {"name": "Patriot XMR", "cls": "Fusil d'assaut", "range": "Longue portée", "trend": "=",
+         "build": [{"slot": "Crosse", "name": "Hanbit MK.3 H70", "lvl": 9}, {"slot": "Canon", "name": "SO Bipod 898F 19\"", "lvl": 15}, {"slot": "Bouche", "name": "EXP Undertow Gen. 2", "lvl": 25}, {"slot": "Poignée arr.", "name": "Schlager ATTACK-7 Grip", "lvl": 28}, {"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 32}]},
+        {"name": "Oris 8.6", "cls": "Fusil de précision", "range": "Longue portée", "trend": "+",
+         "build": [{"slot": "Poignée arr.", "name": "Bruen R7-TC Grip", "lvl": 29}, {"slot": "Canon", "name": "EXP Crosstac 22\"", "lvl": 33}, {"slot": "Culasse", "name": "Lightfir-5 Quick Bolt", "lvl": 42}, {"slot": "Laser", "name": "XRK Clutch-LS", "lvl": 55}, {"slot": "Optique", "name": "Schlager 7x", "lvl": 63}]},
+        {"name": "Rezi-12", "cls": "Fusil à pompe", "range": "Très courte", "trend": "+",
+         "build": [{"slot": "Laser", "name": "Schlager Visiv-5", "lvl": 5}, {"slot": "Munitions", "name": "12 Gauge Slug", "lvl": 10}, {"slot": "Crosse", "name": "No Stock", "lvl": 18}, {"slot": "Bouche", "name": "Haebang Bulsae-10", "lvl": 28}, {"slot": "Poignée arr.", "name": "XRK Bygone-39", "lvl": 51}, {"slot": "Apex", "name": "Rezi 12 Enforcer", "lvl": 60}]},
+        {"name": "Signal 50", "cls": "Sniper", "range": "Longue portée", "trend": "=",
+         "build": [{"slot": "Canon", "name": "TV Icarus 50 24.5\""}, {"slot": "Laser", "name": "Schlager Visiv-5"}, {"slot": "Crosse", "name": "Cronen SN-PAD50"}, {"slot": "Poignée arr.", "name": "EXP Trim-54F"}, {"slot": "Sous-canon", "name": "FSS Tac90 Grip"}]}
       ]},
       {"tier": "B", "weapons": [
-        {"name": "Finn LMG", "cls": "Mitrailleuse", "trend": "=", "build": []},
-        {"name": "Krait P68", "cls": "Pistolet", "trend": "=", "build": []}
+        {"name": "Finn LMG", "cls": "Mitrailleuse", "range": "Longue portée", "trend": "=",
+         "build": [{"slot": "Canon", "name": "FTAC Firebase-70 15\"", "lvl": 2}, {"slot": "Bouche", "name": "ZLR Reverb90", "lvl": 18}, {"slot": "Laser", "name": "SA LAZ-500", "lvl": 33}, {"slot": "Sous-canon", "name": "Bruen Renegade Grip", "lvl": 45}, {"slot": "Optique", "name": "SZ Prima-4 Dot", "lvl": 47}]},
+        {"name": "Type 73", "cls": "Mitrailleuse", "range": "Longue portée", "trend": "=",
+         "build": [{"slot": "Canon", "name": "SA Firerush 23.8\"", "lvl": 16}, {"slot": "Sous-canon", "name": "Bruen Renegade Grip", "lvl": 45}, {"slot": "Bouche", "name": "EXP R3000-V", "lvl": 48}, {"slot": "Laser", "name": "XRK Clutch-LS", "lvl": 54}, {"slot": "Optique", "name": "SZ Prima-4 Dot", "lvl": 55}]},
+        {"name": "MAR-9", "cls": "Fusil de précision", "range": "Moyenne / longue", "trend": "=",
+         "build": [{"slot": "Laser", "name": "SZ Gen.6 PEQ", "lvl": 5}, {"slot": "Chargeur", "name": "10 Round Mag", "lvl": 6}, {"slot": "Sous-canon", "name": "FSS Fireline Grip", "lvl": 18}, {"slot": "Canon", "name": "Bruen Reaper-X", "lvl": 21}, {"slot": "Optique", "name": "Slimline Elite", "lvl": 25}]}
       ]},
       {"tier": "C", "weapons": [
-        {"name": "Type 73", "cls": "Mitrailleuse", "trend": "=", "build": []},
-        {"name": "MAR-9", "cls": "Fusil de précision", "trend": "=", "build": []},
-        {"name": "Oris 8.6", "cls": "Fusil de précision", "trend": "=", "build": []},
-        {"name": "Rezi-12", "cls": "Fusil à pompe", "trend": "=", "build": []}
+        {"name": "Krait P68", "cls": "Pistolet", "range": "Secondaire", "trend": "=",
+         "build": [{"slot": "Laser", "name": "GW MDL-2", "lvl": 3}, {"slot": "Poignée arr.", "name": "Magtac .45", "lvl": 5}, {"slot": "Chargeur", "name": "15 Round Mag", "lvl": 8}, {"slot": "Bouche", "name": "KP68 Flash", "lvl": 12}, {"slot": "Canon", "name": "SA Omni 5.5\"", "lvl": 13}]},
+        {"name": ".50 GS", "cls": "Pistolet", "range": "Secondaire", "trend": "=",
+         "build": [{"slot": "Bouche", "name": "TA SVG-50K", "lvl": 2}, {"slot": "Détente", "name": "Schlager GS Match", "lvl": 6}, {"slot": "Canon", "name": "TA Warlord", "lvl": 8}, {"slot": "Laser", "name": "GW MDL-2", "lvl": 9}, {"slot": "Poignée arr.", "name": "TT Bulkkot Grip", "lvl": 40}]}
       ]}
+    ],
+    "loadouts": [
+      {"title": "Meta polyvalente", "role": "La classe à tout faire", "main": "M4", "second": "Krait P68", "perks": ["Quick Fix", "Fast Hands", "Blood Rush"], "gear": ["Semtex", "Grenade flash", "DDOS"]},
+      {"title": "Rush SMG", "role": "Prises d'objectifs, cartes serrées", "main": "ISO Nightshade", "second": "Krait P68", "perks": ["Ninja", "Fast Hands", "Blood Rush"], "gear": ["Semtex", "Grenade flash", "DDOS"]},
+      {"title": "Sniper agressif", "role": "Quickscope moyenne distance", "main": "KG-7 Vulcan", "second": ".50 GS", "perks": ["Ghost", "Fast Hands", "Blood Rush"], "gear": ["Mine de proximité", "Fumigène", "DDOS"]},
+      {"title": "Kastov hybride", "role": "Courte/moyenne portée avec Apex", "main": "Kastov 762", "second": "Krait P68", "perks": ["Quick Fix", "Hardline", "Scavenger"], "gear": ["Semtex", "Grenade flash", "DDOS"]}
     ]
   },
   "dmz": {
     "note": "Classes DMZ (lancement).",
     "loadouts": [
-      {"title": "Polyvalent", "role": "Kit tout-terrain, runs à gros budget", "main": "M4", "build": ["FSS IS300", "Canon 18\" LE Crosswind", "KV Corsac Holo", "Chargeur tambour 60", "Laser SZ Gen.6 PEQ"], "second": "ISO Nightshade", "gear": ["Fumigène", "Grenade collante", "Caisse d'armure"], "traits": ["Quick Fix", "Faster Revive"]},
-      {"title": "PvP", "role": "Fusil à distance + SMG pour pousser", "main": "Han 86", "build": ["FSS IS300", "Canon Hanbit Lightning-7 465mm", "KV Corsac Holo", "Chargeur tambour 60", "Laser Schlager VISIV-5"], "second": "PPSh-41", "gear": ["Fumigène", "Drill Charge", "Radar portable"], "traits": ["Combat Resistance", "Thermal Padding"]},
-      {"title": "Boss / PvE", "role": "Objectifs IA et boss", "main": "Type 73", "build": ["Gauge-12 Mono", "Canon Haebang ET-9D 772mm", "KV Corsac Holo", "Poignée EXP ZBR-904", "Laser Schlager VISIV-5"], "second": "X-58 Nyx", "gear": ["Fumigène", "Thermite", "Caisse de munitions"], "traits": ["Quick Fix", "Faster Revive"]},
-      {"title": "Sniper support", "role": "Couverture longue distance", "main": "KG-7 Vulcan", "build": ["TT Solgae F7", "Canon Haebang RMT762 29\"", "7.62x54mmR Haute vélocité", "KT76 Light Bolt", "Haebang YNC-45"], "second": "M4", "gear": ["Fumigène", "Mine de proximité", "Caisse d'armure"], "traits": ["Thermal Padding", "Combat Resistance"]}
+      {"title": "Polyvalent", "role": "Kit tout-terrain, runs à gros budget", "main": "M4", "build": [{"slot": "Bouche", "name": "FSS IS300"}, {"slot": "Canon", "name": "18\" LE Crosswind"}, {"slot": "Optique", "name": "KV Corsac Holo"}, {"slot": "Chargeur", "name": "Tambour 60"}, {"slot": "Laser", "name": "SZ Gen.6 PEQ"}], "second": "ISO Nightshade", "gear": ["Fumigène", "Grenade collante", "Caisse d'armure"], "traits": ["Quick Fix", "Faster Revive"]},
+      {"title": "PvP", "role": "Fusil à distance + SMG pour pousser", "main": "Han 86", "build": [{"slot": "Bouche", "name": "FSS IS300"}, {"slot": "Canon", "name": "Hanbit Lightning-7 465mm"}, {"slot": "Optique", "name": "KV Corsac Holo"}, {"slot": "Chargeur", "name": "Tambour 60"}, {"slot": "Laser", "name": "Schlager VISIV-5"}], "second": "PPSh-41", "gear": ["Fumigène", "Drill Charge", "Radar portable"], "traits": ["Combat Resistance", "Thermal Padding"]},
+      {"title": "Boss / PvE", "role": "Objectifs IA et boss", "main": "Type 73", "build": [{"slot": "Bouche", "name": "Gauge-12 Mono"}, {"slot": "Canon", "name": "Haebang ET-9D 772mm"}, {"slot": "Optique", "name": "KV Corsac Holo"}, {"slot": "Poignée arr.", "name": "EXP ZBR-904"}, {"slot": "Laser", "name": "Schlager VISIV-5"}], "second": "X-58 Nyx", "gear": ["Fumigène", "Thermite", "Caisse de munitions"], "traits": ["Quick Fix", "Faster Revive"]},
+      {"title": "Sniper support", "role": "Couverture longue distance", "main": "KG-7 Vulcan", "build": [{"slot": "Bouche", "name": "TT Solgae F7"}, {"slot": "Canon", "name": "Haebang RMT762 29\""}, {"slot": "Munitions", "name": "7.62x54mmR Haute vélocité"}, {"slot": "Culasse", "name": "KT76 Light Bolt"}, {"slot": "Busc", "name": "Haebang YNC-45"}], "second": "M4", "gear": ["Fumigène", "Mine de proximité", "Caisse d'armure"], "traits": ["Thermal Padding", "Combat Resistance"]}
     ],
-    "tips": ["Budget : d'abord soins, gilet et sac, puis arme principale et munitions."]
+    "tips": ["Budget : d'abord soins, gilet et sac, puis arme principale et munitions.", "En équipe : un fusil longue portée + un SMG pour pousser.", "Contre les boss : LMG + Thermite, gardez une Caisse de munitions."]
   },
   "wz": {
     "available": false,
     "note": "Les metas Warzone MW4 arrivent avec la Saison 1 (6 nov.).",
+    "tiers": [],
     "loadouts": []
   },
+  "perks": [
+    {"slot": 1, "name": "Quick Fix", "desc": "Les kills et actions d'objectif te soignent immédiatement", "lvl": 1, "tier": "S"},
+    {"slot": 1, "name": "Overkill", "desc": "Deux armes principales", "lvl": 1, "tier": "B"},
+    {"slot": 1, "name": "High Alert", "desc": "L'écran pulse quand un ennemi hors vue te repère", "lvl": 16, "tier": "B"},
+    {"slot": 1, "name": "Ninja", "desc": "Pas plus discrets, portée de détection réduite", "lvl": 20, "tier": "A"},
+    {"slot": 1, "name": "Ghost", "desc": "Invisible aux UAV, radars portables et capteurs", "lvl": 24, "tier": "A"},
+    {"slot": 1, "name": "Kill Chain", "desc": "Les kills de séries comptent pour tes séries", "lvl": 48, "tier": "C"},
+    {"slot": 2, "name": "Fast Hands", "desc": "Rechargement, équipement et changement d'arme plus rapides", "lvl": 12, "tier": "S"},
+    {"slot": 2, "name": "Hardline", "desc": "Chaque série coûte un kill de moins", "lvl": 1, "tier": "A"},
+    {"slot": 2, "name": "Bomb Squad", "desc": "Moins de dégâts d'explosifs, relance les grenades", "lvl": 1, "tier": "B"},
+    {"slot": 2, "name": "Birdseye", "desc": "Mini-carte améliorée avec direction des ennemis", "lvl": 31, "tier": "B"},
+    {"slot": 2, "name": "Tracker", "desc": "Voit les traces de pas ennemies, cache tes marqueurs", "lvl": 32, "tier": "A"},
+    {"slot": 2, "name": "Resupply", "desc": "L'équipement se recharge avec le temps", "lvl": 36, "tier": "B"},
+    {"slot": 3, "name": "Blood Rush", "desc": "Sprint tactique (rallongé après un kill)", "lvl": 1, "tier": "S"},
+    {"slot": 3, "name": "Scavenger", "desc": "Récupère des munitions sur les ennemis", "lvl": 1, "tier": "B"},
+    {"slot": 3, "name": "Lethal Reach", "desc": "Lancers plus loin, meilleur corps-à-corps", "lvl": 8, "tier": "C"},
+    {"slot": 3, "name": "Battle Hardened", "desc": "Réduit les effets des tactiques ennemies", "lvl": 28, "tier": "A"},
+    {"slot": 3, "name": "Cold-Blooded", "desc": "Invisible à l'IA, aux optiques thermiques et à la reco", "lvl": 30, "tier": "A"},
+    {"slot": 3, "name": "Combat Grid", "desc": "Voit équipements, véhicules et séries à travers les murs", "lvl": 40, "tier": "B"}
+  ],
+  "settings": [
+    {"group": "Graphismes", "items": [["Champ de vision (FOV)", "100 – 110"], ["Flou de mouvement", "Désactivé"], ["Grain de film", "0"], ["Profondeur de champ", "Désactivée"], ["NVIDIA Reflex", "Activé + Boost"]]},
+    {"group": "Manette", "items": [["Courbe de réponse", "Dynamique"], ["Zone morte stick gauche", "Le plus bas sans drift"], ["Aim assist", "Précision / Standard"], ["Sprint tactique auto", "Activé"]]},
+    {"group": "Audio", "items": [["Mix audio", "Casque / Bass Boost"], ["Musique", "0"], ["Volume des effets", "100"]]}
+  ],
   "patches": [
     {"date": "2026-08-28", "title": "Bêta — Week-end 2", "buffs": ["Vitesse de sprint de base couteau et pistolets augmentée"], "nerfs": ["Toutes les armes : TTK ajusté (plus de durabilité)", "Tactical Sprint retiré par défaut → perk Blood Rush (-4 % vitesse)", "Glissade : -10 % distance, -9 % vitesse", "Endurance -8 %", "Aim assist réduit (global, Warzone inclus)", "Killstreaks : +1 kill de coût", "UAV : -60 % PV", "Artillery Beacon : 5 missiles, rayons réduits"], "changes": ["Spawns : meilleure séparation des joueurs", "TDM 100 pts, Kill Confirmed 75"]},
     {"date": "2026-08-22", "title": "Bêta — Update 1.002", "buffs": [], "nerfs": ["Munitions Frangible nerfées"], "changes": ["Bruits de pas ajustés"]}
   ],
-  "sources": ["dexerto.com", "playhub.com", "dotesports.com", "callofduty.com"]
+  "sources": ["wzranked.com", "dexerto.com", "dotesports.com", "playhub.com", "timesaver.gg", "tourneytimenetwork.com"]
 }
