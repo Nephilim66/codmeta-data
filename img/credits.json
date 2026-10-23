@@ -24,10 +24,10 @@
   "license": "CC BY-SA 4.0"
  },
  "han-86": {
-  "spec": "Daewoo K2 rifle",
-  "title": "File:Daewoo K2 rifle 1.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Daewoo_K2_rifle_1.jpg",
-  "license": "CC BY 3.0"
+  "spec": "Daewoo K2C1",
+  "title": "File:K2C1 assault rifle.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:K2C1_assault_rifle.jpg",
+  "license": "CC0"
  },
  "ppsh-41": {
   "spec": "PPSh-41",
@@ -54,10 +54,10 @@
   "license": "CC BY 2.0"
  },
  "rezi-12": {
-  "spec": "Saiga-12 shotgun",
-  "title": "File:Saiga-12 2013.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Saiga-12_2013.jpg",
-  "license": "CC BY-SA 3.0"
+  "spec": "Benelli M4 shotgun",
+  "title": "File:Benelli M4 Combat Shotgun LAND-2010-104 DSC 5656 (Cropped version).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Benelli_M4_Combat_Shotgun_LAND-2010-104_DSC_5656_(Cropped_version).jpg",
+  "license": "OGL 3"
  },
  "signal-50": {
   "spec": "Barrett M82",
@@ -84,10 +84,10 @@
   "license": "CC0"
  },
  "krait-p68": {
-  "spec": "Glock 17",
-  "title": "File:Glock pistols.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Glock_pistols.jpg",
-  "license": "CC BY-SA 3.0"
+  "spec": "Glock 17 pistol",
+  "title": "File:Glock 17 (6825676904).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Glock_17_(6825676904).jpg",
+  "license": "CC BY 2.0"
  },
  "50-gs": {
   "spec": "Desert Eagle pistol",
