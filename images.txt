@@ -7,7 +7,7 @@ han-86 | Daewoo K2C1
 ppsh-41 | PPSh-41
 hyeon-burst | intitle:PEO M16A4
 x-58-nyx | KRISS Vector
-patriot-xmr | HK416 rifle
+patriot-xmr | FN SCAR-H rifle
 oris-8-6 | M110 sniper rifle
 rezi-12 | Benelli M4 shotgun
 signal-50 | Barrett M82
