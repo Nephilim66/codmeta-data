@@ -1,0 +1,18 @@
+# slug | recherche Commons (ou File:Nom exact)
+m4 | M4 carbine profile
+iso-nightshade | MP7 submachine gun
+kastov-762 | AKM rifle
+kg-7-vulcan | SVD Dragunov rifle
+han-86 | Daewoo K2 rifle
+ppsh-41 | PPSh-41
+hyeon-burst | Daewoo K1 rifle
+x-58-nyx | KRISS Vector
+patriot-xmr | HK416 rifle
+oris-8-6 | M110 sniper rifle
+rezi-12 | Saiga-12 shotgun
+signal-50 | Barrett M82
+finn-lmg | M249 SAW
+type-73 | PKM machine gun
+mar-9 | Mk 14 EBR
+krait-p68 | Glock 17
+50-gs | Desert Eagle pistol
