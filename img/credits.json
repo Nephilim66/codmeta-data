@@ -1,0 +1,98 @@
+{
+ "m4": {
+  "spec": "M4 carbine profile",
+  "title": "File:Operation Golden Triangle-019 (48866781876) cropped.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Operation_Golden_Triangle-019_(48866781876)_cropped.jpg",
+  "license": "Public domain"
+ },
+ "iso-nightshade": {
+  "spec": "MP7 submachine gun",
+  "title": "File:HK MP7 Bundeswehr noBG.png",
+  "page": "https://commons.wikimedia.org/wiki/File:HK_MP7_Bundeswehr_noBG.png",
+  "license": "CC BY-SA 4.0"
+ },
+ "kastov-762": {
+  "spec": "AKM rifle",
+  "title": "File:AKM RIFLE.png",
+  "page": "https://commons.wikimedia.org/wiki/File:AKM_RIFLE.png",
+  "license": "CC BY-SA 3.0"
+ },
+ "kg-7-vulcan": {
+  "spec": "SVD Dragunov rifle",
+  "title": "File:SVD Dragunov.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SVD_Dragunov.jpg",
+  "license": "CC BY-SA 4.0"
+ },
+ "han-86": {
+  "spec": "Daewoo K2 rifle",
+  "title": "File:Daewoo K2 rifle 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Daewoo_K2_rifle_1.jpg",
+  "license": "CC BY 3.0"
+ },
+ "ppsh-41": {
+  "spec": "PPSh-41",
+  "title": "File:PPsh-41 at the National Museum of Scotland.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PPsh-41_at_the_National_Museum_of_Scotland.jpg",
+  "license": "CC0"
+ },
+ "x-58-nyx": {
+  "spec": "KRISS Vector",
+  "title": "File:Kriss Vector SMG Realistic.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Kriss_Vector_SMG_Realistic.png",
+  "license": "CC BY-SA 3.0"
+ },
+ "patriot-xmr": {
+  "spec": "HK416 rifle",
+  "title": "File:Heckler & Koch HK416 Users.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_HK416_Users.png",
+  "license": "CC BY-SA 4.0"
+ },
+ "oris-8-6": {
+  "spec": "M110 sniper rifle",
+  "title": "File:SR-25 pic02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SR-25_pic02.jpg",
+  "license": "CC BY 2.0"
+ },
+ "rezi-12": {
+  "spec": "Saiga-12 shotgun",
+  "title": "File:Saiga-12 2013.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Saiga-12_2013.jpg",
+  "license": "CC BY-SA 3.0"
+ },
+ "signal-50": {
+  "spec": "Barrett M82",
+  "title": "File:Barrett M82.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barrett_M82.jpg",
+  "license": "Public domain"
+ },
+ "finn-lmg": {
+  "spec": "M249 SAW",
+  "title": "File:PEO M249 Para ACOG.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PEO_M249_Para_ACOG.jpg",
+  "license": "Public domain"
+ },
+ "type-73": {
+  "spec": "PKM machine gun",
+  "title": "File:PKM DD-ST-85-01257.JPEG",
+  "page": "https://commons.wikimedia.org/wiki/File:PKM_DD-ST-85-01257.JPEG",
+  "license": "Public domain"
+ },
+ "mar-9": {
+  "spec": "Mk 14 EBR",
+  "title": "File:Mk 14 Mod 0 Enhanced Battle Rifle.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mk_14_Mod_0_Enhanced_Battle_Rifle.jpg",
+  "license": "CC BY 3.0"
+ },
+ "krait-p68": {
+  "spec": "Glock 17",
+  "title": "File:Glock pistols.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Glock_pistols.jpg",
+  "license": "CC BY-SA 3.0"
+ },
+ "50-gs": {
+  "spec": "Desert Eagle pistol",
+  "title": "File:DesertEagle 50AE.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:DesertEagle_50AE.jpg",
+  "license": "CC BY-SA 3.0"
+ }
+}
