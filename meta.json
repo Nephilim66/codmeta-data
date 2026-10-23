@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-23T12:30:00+02:00",
+  "season": "MW4 — Lancement (Saison 1 le 6 nov.)",
+  "s1_date": "2026-11-06T19:00:00+01:00",
+  "news": [
+    "MW4 sorti le 23 oct. ; DMZ dispo depuis l'accès anticipé du 20 oct.",
+    "Saison 1 le 6 nov. : Warzone passe sur MW4 (cartes Zodiac + Hajin), Battle Pass et BlackCell.",
+    "Warzone ne sera plus jouable sur PS4/Xbox One à partir de la Saison 1."
+  ],
+  "mp": {
+    "note": "Tier list basée sur la bêta (août) — affinée au fil des patchs.",
+    "tiers": [
+      {"tier": "S", "weapons": [
+        {"name": "ISO Nightshade", "cls": "SMG", "trend": "=", "build": ["Courte portée / rush"]},
+        {"name": "M4", "cls": "Fusil d'assaut", "trend": "=", "build": ["FSS IS300", "Canon 18\" LE Crosswind", "KV Corsac Holo", "Chargeur tambour 60", "Laser SZ Gen.6 PEQ"]},
+        {"name": "KG-7 Vulcan", "cls": "Sniper", "trend": "=", "build": ["TT Solgae F7", "Canon Haebang RMT762 29\"", "7.62x54mmR Haute vélocité", "KT76 Light Bolt", "Haebang YNC-45"]}
+      ]},
+      {"tier": "A", "weapons": [
+        {"name": "Han 86", "cls": "Fusil d'assaut", "trend": "=", "build": ["FSS IS300", "Canon Hanbit Lightning-7 465mm", "KV Corsac Holo", "Chargeur tambour 60", "Laser Schlager VISIV-5"]},
+        {"name": "Hyeon Burst", "cls": "Fusil d'assaut", "trend": "=", "build": []},
+        {"name": "PPSh-41", "cls": "SMG", "trend": "=", "build": []}
+      ]},
+      {"tier": "B", "weapons": [
+        {"name": "Finn LMG", "cls": "Mitrailleuse", "trend": "=", "build": []},
+        {"name": "Krait P68", "cls": "Pistolet", "trend": "=", "build": []}
+      ]},
+      {"tier": "C", "weapons": [
+        {"name": "Type 73", "cls": "Mitrailleuse", "trend": "=", "build": []},
+        {"name": "MAR-9", "cls": "Fusil de précision", "trend": "=", "build": []},
+        {"name": "Oris 8.6", "cls": "Fusil de précision", "trend": "=", "build": []},
+        {"name": "Rezi-12", "cls": "Fusil à pompe", "trend": "=", "build": []}
+      ]}
+    ]
+  },
+  "dmz": {
+    "note": "Classes DMZ (lancement).",
+    "loadouts": [
+      {"title": "Polyvalent", "role": "Kit tout-terrain, runs à gros budget", "main": "M4", "build": ["FSS IS300", "Canon 18\" LE Crosswind", "KV Corsac Holo", "Chargeur tambour 60", "Laser SZ Gen.6 PEQ"], "second": "ISO Nightshade", "gear": ["Fumigène", "Grenade collante", "Caisse d'armure"], "traits": ["Quick Fix", "Faster Revive"]},
+      {"title": "PvP", "role": "Fusil à distance + SMG pour pousser", "main": "Han 86", "build": ["FSS IS300", "Canon Hanbit Lightning-7 465mm", "KV Corsac Holo", "Chargeur tambour 60", "Laser Schlager VISIV-5"], "second": "PPSh-41", "gear": ["Fumigène", "Drill Charge", "Radar portable"], "traits": ["Combat Resistance", "Thermal Padding"]},
+      {"title": "Boss / PvE", "role": "Objectifs IA et boss", "main": "Type 73", "build": ["Gauge-12 Mono", "Canon Haebang ET-9D 772mm", "KV Corsac Holo", "Poignée EXP ZBR-904", "Laser Schlager VISIV-5"], "second": "X-58 Nyx", "gear": ["Fumigène", "Thermite", "Caisse de munitions"], "traits": ["Quick Fix", "Faster Revive"]},
+      {"title": "Sniper support", "role": "Couverture longue distance", "main": "KG-7 Vulcan", "build": ["TT Solgae F7", "Canon Haebang RMT762 29\"", "7.62x54mmR Haute vélocité", "KT76 Light Bolt", "Haebang YNC-45"], "second": "M4", "gear": ["Fumigène", "Mine de proximité", "Caisse d'armure"], "traits": ["Thermal Padding", "Combat Resistance"]}
+    ],
+    "tips": ["Budget : d'abord soins, gilet et sac, puis arme principale et munitions."]
+  },
+  "wz": {
+    "available": false,
+    "note": "Les metas Warzone MW4 arrivent avec la Saison 1 (6 nov.).",
+    "loadouts": []
+  },
+  "patches": [
+    {"date": "2026-08-28", "title": "Bêta — Week-end 2", "buffs": ["Vitesse de sprint de base couteau et pistolets augmentée"], "nerfs": ["Toutes les armes : TTK ajusté (plus de durabilité)", "Tactical Sprint retiré par défaut → perk Blood Rush (-4 % vitesse)", "Glissade : -10 % distance, -9 % vitesse", "Endurance -8 %", "Aim assist réduit (global, Warzone inclus)", "Killstreaks : +1 kill de coût", "UAV : -60 % PV", "Artillery Beacon : 5 missiles, rayons réduits"], "changes": ["Spawns : meilleure séparation des joueurs", "TDM 100 pts, Kill Confirmed 75"]},
+    {"date": "2026-08-22", "title": "Bêta — Update 1.002", "buffs": [], "nerfs": ["Munitions Frangible nerfées"], "changes": ["Bruits de pas ajustés"]}
+  ],
+  "sources": ["dexerto.com", "playhub.com", "dotesports.com", "callofduty.com"]
+}
