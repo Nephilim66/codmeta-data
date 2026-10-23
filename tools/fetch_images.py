@@ -50,5 +50,5 @@ for line in open("images.txt", encoding="utf-8"):
             print("OK", slug, title); ok = True; break
         except Exception as e:
             print("ERR", slug, title, e)
-    if not ok: print("MISS", slug, spec)
+    if not ok: print("MISS", slug, spec, [c[0] for c in candidates(spec, 1.0)][:8])
 json.dump(cred, open("img/credits.json", "w"), ensure_ascii=False, indent=1)
