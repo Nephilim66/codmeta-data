@@ -1,18 +1,18 @@
 # slug | recherche Commons (ou File:Nom exact)
-m4 | M4 carbine profile
+m4 | intitle:PEO M4 Carbine
 iso-nightshade | MP7 submachine gun
 kastov-762 | AKM rifle
 kg-7-vulcan | SVD Dragunov rifle
-han-86 | Daewoo K2 rifle
+han-86 | Daewoo K2 rifle white background
 ppsh-41 | PPSh-41
-hyeon-burst | Daewoo K1 rifle
+hyeon-burst | intitle:PEO M16A4
 x-58-nyx | KRISS Vector
-patriot-xmr | HK416 rifle
+patriot-xmr | intitle:PEO M27 IAR
 oris-8-6 | M110 sniper rifle
-rezi-12 | Saiga-12 shotgun
+rezi-12 | intitle:PEO M1014
 signal-50 | Barrett M82
 finn-lmg | M249 SAW
-type-73 | PKM machine gun
-mar-9 | Mk 14 EBR
-krait-p68 | Glock 17
+type-73 | intitle:PEO M240B
+mar-9 | intitle:PEO M14 EBR
+krait-p68 | intitle:PEO M17 pistol
 50-gs | Desert Eagle pistol

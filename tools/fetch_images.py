@@ -1,5 +1,5 @@
 """Download real firearm photos from Wikimedia Commons, cut out background, save img/<slug>.webp"""
-import io, json, os, sys, requests
+import io, json, os, re, sys, requests
 from PIL import Image
 from rembg import remove, new_session
 UA = {"User-Agent": "MetaDropBot/1.0 (github.com/Nephilim66/codmeta-data)"}
@@ -23,6 +23,7 @@ def candidates(spec):
         w, h = ii.get("width", 0), ii.get("height", 0)
         if spec.startswith("File:") or (h and w / h >= 1.7 and w >= 800):
             lic = ii.get("extmetadata", {}).get("LicenseShortName", {}).get("value", "")
+            if re.search(r"(?i)users|map|pistols|ammunition|label|comparison|soldier|troops|range|training", pg["title"]) and not spec.startswith("File:"): continue
             out.append((pg["title"], ii.get("thumburl") or ii.get("url"), ii.get("descriptionurl"), lic))
     return out
 
