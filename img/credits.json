@@ -1,8 +1,8 @@
 {
  "m4": {
-  "spec": "M4 carbine profile",
-  "title": "File:Operation Golden Triangle-019 (48866781876) cropped.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Operation_Golden_Triangle-019_(48866781876)_cropped.jpg",
+  "spec": "intitle:PEO M4 Carbine",
+  "title": "File:PEO M4 Carbine RAS M68 CCO.png",
+  "page": "https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png",
   "license": "Public domain"
  },
  "iso-nightshade": {
@@ -72,16 +72,16 @@
   "license": "Public domain"
  },
  "type-73": {
-  "spec": "PKM machine gun",
-  "title": "File:PKM DD-ST-85-01257.JPEG",
-  "page": "https://commons.wikimedia.org/wiki/File:PKM_DD-ST-85-01257.JPEG",
+  "spec": "intitle:PEO M240B",
+  "title": "File:PEO M240B Profile.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PEO_M240B_Profile.jpg",
   "license": "Public domain"
  },
  "mar-9": {
-  "spec": "Mk 14 EBR",
-  "title": "File:Mk 14 Mod 0 Enhanced Battle Rifle.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Mk_14_Mod_0_Enhanced_Battle_Rifle.jpg",
-  "license": "CC BY 3.0"
+  "spec": "intitle:PEO M14 EBR",
+  "title": "File:PEO M14 EBR-rbg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:PEO_M14_EBR-rbg.png",
+  "license": "CC0"
  },
  "krait-p68": {
   "spec": "Glock 17",
@@ -94,5 +94,11 @@
   "title": "File:DesertEagle 50AE.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:DesertEagle_50AE.jpg",
   "license": "CC BY-SA 3.0"
+ },
+ "hyeon-burst": {
+  "spec": "intitle:PEO M16A4",
+  "title": "File:PEO M16A4 Rifle.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PEO_M16A4_Rifle.jpg",
+  "license": "Public domain"
  }
 }
