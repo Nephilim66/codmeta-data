@@ -12,10 +12,10 @@
   "license": "CC BY-SA 4.0"
  },
  "kastov-762": {
-  "spec": "AKM rifle",
-  "title": "File:AKM RIFLE.png",
-  "page": "https://commons.wikimedia.org/wiki/File:AKM_RIFLE.png",
-  "license": "CC BY-SA 3.0"
+  "spec": "AK-103 rifle",
+  "title": "File:AK-101 assault rifle 2012 noBG.png",
+  "page": "https://commons.wikimedia.org/wiki/File:AK-101_assault_rifle_2012_noBG.png",
+  "license": "CC BY-SA 4.0"
  },
  "kg-7-vulcan": {
   "spec": "SVD Dragunov rifle",
@@ -42,10 +42,10 @@
   "license": "CC BY-SA 3.0"
  },
  "patriot-xmr": {
-  "spec": "SCAR-H",
-  "title": "File:FN SCAR.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:FN_SCAR.jpg",
-  "license": "CC BY-SA 4.0"
+  "spec": "SCAR 17S",
+  "title": "File:Ingrid with the SCAR 17s and LMT Crane stock.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ingrid_with_the_SCAR_17s_and_LMT_Crane_stock.jpg",
+  "license": "CC BY-SA 2.0"
  },
  "oris-8-6": {
   "spec": "M110 sniper rifle",
@@ -54,10 +54,10 @@
   "license": "CC BY 2.0"
  },
  "rezi-12": {
-  "spec": "Benelli M4 shotgun",
-  "title": "File:Benelli M4 Combat Shotgun LAND-2010-104 DSC 5656 (Cropped version).jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Benelli_M4_Combat_Shotgun_LAND-2010-104_DSC_5656_(Cropped_version).jpg",
-  "license": "OGL 3"
+  "spec": "Beretta 1301 shotgun",
+  "title": "File:Beretta 1301 Tactical.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beretta_1301_Tactical.jpg",
+  "license": "CC BY-SA 4.0"
  },
  "signal-50": {
   "spec": "Barrett M82",
@@ -84,10 +84,10 @@
   "license": "CC0"
  },
  "krait-p68": {
-  "spec": "Glock 17 pistol",
-  "title": "File:Glock 17 (6825676904).jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Glock_17_(6825676904).jpg",
-  "license": "CC BY 2.0"
+  "spec": "Heckler & Koch VP9",
+  "title": "File:HK-SFP9 LSH.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:HK-SFP9_LSH.JPG",
+  "license": "CC BY-SA 3.0"
  },
  "50-gs": {
   "spec": "Desert Eagle pistol",
